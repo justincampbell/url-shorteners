@@ -65,5 +65,6 @@ blank.
 
 * [C](https://github.com/justincampbell/url-shortener-c)
 * [Erlang](https://github.com/justincampbell/url-shortener-erlang)
+* [Haskell](https://github.com/justincampbell/url-shortener-haskell)
 * [Rust](https://github.com/justincampbell/url-shortener-rust)
 * [Scala](https://github.com/justincampbell/url-shortener-scala)
