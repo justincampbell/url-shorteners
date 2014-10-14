@@ -64,4 +64,5 @@ blank.
 ### In-progress
 
 * [Erlang](https://github.com/justincampbell/url-shortener-erlang)
+* [Rust](https://github.com/justincampbell/url-shortener-rust)
 * [Scala](https://github.com/justincampbell/url-shortener-scala)
