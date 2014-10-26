@@ -58,6 +58,7 @@ blank.
 * [Clojure](https://github.com/justincampbell/url-shortener-clojure)
 * [Elixir](https://github.com/justincampbell/url-shortener-elixir)
 * [Go](https://github.com/justincampbell/url-shortener-go)
+* [Haskell](https://github.com/justincampbell/url-shortener-haskell)
 * [Python](https://github.com/justincampbell/url-shortener-python)
 * [Ruby](https://github.com/justincampbell/url-shortener-ruby)
 
@@ -65,6 +66,5 @@ blank.
 
 * [C](https://github.com/justincampbell/url-shortener-c)
 * [Erlang](https://github.com/justincampbell/url-shortener-erlang)
-* [Haskell](https://github.com/justincampbell/url-shortener-haskell)
 * [Rust](https://github.com/justincampbell/url-shortener-rust)
 * [Scala](https://github.com/justincampbell/url-shortener-scala)
