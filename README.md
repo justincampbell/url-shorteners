@@ -56,9 +56,11 @@ blank.
 ## Implementations
 
 * [Clojure](https://github.com/justincampbell/url-shortener-clojure)
+* [CoffeeScript](https://github.com/justincampbell/url-shortener-coffeescript)
 * [Elixir](https://github.com/justincampbell/url-shortener-elixir)
 * [Go](https://github.com/justincampbell/url-shortener-go)
 * [Haskell](https://github.com/justincampbell/url-shortener-haskell)
+* [JavaScript](https://github.com/justincampbell/url-shortener-javascript)
 * [Python](https://github.com/justincampbell/url-shortener-python)
 * [Ruby](https://github.com/justincampbell/url-shortener-ruby)
 
