@@ -63,10 +63,10 @@ blank.
 * [JavaScript](https://github.com/justincampbell/url-shortener-javascript)
 * [Python](https://github.com/justincampbell/url-shortener-python)
 * [Ruby](https://github.com/justincampbell/url-shortener-ruby)
+* [Scala](https://github.com/justincampbell/url-shortener-scala)
 
 ### In-progress
 
 * [C](https://github.com/justincampbell/url-shortener-c)
 * [Erlang](https://github.com/justincampbell/url-shortener-erlang)
 * [Rust](https://github.com/justincampbell/url-shortener-rust)
-* [Scala](https://github.com/justincampbell/url-shortener-scala)
