@@ -61,6 +61,7 @@ blank.
 * [Go](https://github.com/justincampbell/url-shortener-go)
 * [Haskell](https://github.com/justincampbell/url-shortener-haskell)
 * [JavaScript](https://github.com/justincampbell/url-shortener-javascript)
+* [JavaScript (ES6)](https://github.com/justincampbell/url-shortener-javascript-es6)
 * [Python](https://github.com/justincampbell/url-shortener-python)
 * [Ruby](https://github.com/justincampbell/url-shortener-ruby)
 * [Scala](https://github.com/justincampbell/url-shortener-scala)
