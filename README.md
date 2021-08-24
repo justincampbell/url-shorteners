@@ -59,6 +59,7 @@ blank.
 * [CoffeeScript](https://github.com/justincampbell/url-shortener-coffeescript)
 * [Elixir](https://github.com/justincampbell/url-shortener-elixir)
 * [Go](https://github.com/justincampbell/url-shortener-go)
+* [gRPC (Ruby -> Go)](https://github.com/justincampbell/url-shortener-grpc)
 * [Haskell](https://github.com/justincampbell/url-shortener-haskell)
 * [JavaScript](https://github.com/justincampbell/url-shortener-javascript)
 * [JavaScript (ES6)](https://github.com/justincampbell/url-shortener-javascript-es6)
